@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291215443932",
+    "firebase_url": "https://carmatic-99135.firebaseio.com",
+    "project_id": "carmatic-99135",
+    "storage_bucket": "carmatic-99135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291215443932:android:227b440b2d74b26bbdb119",
+        "android_client_info": {
+          "package_name": "com.example.carmatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291215443932-kh76534teq8pbi5f51dnqusagtnl0c1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carmatic",
+            "certificate_hash": "b019bd762e1097035d21b8da00283a8c7f5a8ba8"
+          }
+        },
+        {
+          "client_id": "291215443932-1qlqup6h05fcka3o64j0vl9g0df5he0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ17rlT545i1QsSMyfqfNnDzXYJvOZK4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291215443932-1qlqup6h05fcka3o64j0vl9g0df5he0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
